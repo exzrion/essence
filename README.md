@@ -51,11 +51,11 @@ should be able to see your new site at <http://username.github.io>.
 
 ## Licensing
 
-This content belongs to the creator of this project.
+This project is a modification of [Left](https://zachholman.com/) by Zach Holman.
 
-This is [MIT](https://github.com/holman/left/blob/gh-pages/LICENSE) with no
+This is [MIT](https://github.com/exzrion/essence/blob/gh-pages/LICENSE) with no
 added caveats, so feel free to use this on your site without linking back to
 me or using a disclaimer or anything silly like that.
 
 If you'd like give me credit somewhere on your blog or tweet a shout out to
-[@holman](https://twitter.com/holman), well hey, I'll take it.
+[@exzrion](https://twitter.com/exzrion), well hey, I'll take it.
