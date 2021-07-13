@@ -1,4 +1,4 @@
-# Left
+# essence (originaly Left by zachholman)
 
 Left is a clean, whitespace-happy layout for [Jekyll](https://github.com/mojombo/jekyll).
 
@@ -7,9 +7,8 @@ extracted from [zachholman.com](http://zachholman.com/), which means it was
 battle-hardened from years of posting serious blog posts about emoji and swear
 words.
 
-You can see it live right here: <http://zachholman.com/left/>
+You can see it live right here: <https://www.exzrion.me>
 
-![Left](http://cl.ly/image/3S2r1p2C0E2B/content)
 
 ## Installation
 
@@ -28,14 +27,14 @@ where we'll pull your name, Twitter username, and things like that.
 
 There's a few other places that you'll want to change, too:
 
-- [CNAME](https://github.com/holman/left/blob/gh-pages/CNAME): If you're using
+- [CNAME](https://github.com/exzrion/essence/blob/gh-pages/CNAME): If you're using
   this on GitHub Pages with a custom domain name, you'll want to change this
   to be the domain you're going to use. All that should be in here is a
   domain name on the first line and nothing else (like: `example.com`).
-- [favicon.ico](https://github.com/holman/left/blob/gh-pages/favicon.ico): This
+- [favicon-3](https://user-images.githubusercontent.com/10992620/125386661-47071200-e3ba-11eb-8435-2269ce3ba62a.png): This
   is a smaller version of my gravatar for use as the icon in your browser's
   address bar. You should change it to whatever you'd like.
-- [apple-touch-icon.png](https://github.com/holman/left/blob/gh-pages/apple-touch-icon.png):
+- [apple-touch-icon](https://user-images.githubusercontent.com/10992620/125386405-d9f37c80-e3b9-11eb-9212-79667d16f50d.png):
   Again, this is my gravatar, and it shows up in iOS and various other apps
   that use this file as an "icon" for your site.
 
@@ -51,6 +50,8 @@ All you should have to do is rename your repository on GitHub to be
 should be able to see your new site at <http://username.github.io>.
 
 ## Licensing
+
+This content belongs to the creator of this project.
 
 This is [MIT](https://github.com/holman/left/blob/gh-pages/LICENSE) with no
 added caveats, so feel free to use this on your site without linking back to
